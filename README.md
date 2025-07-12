@@ -28,7 +28,6 @@
   <li><strong>Random Forest Accuracy:</strong> 83.74%</li>
   <li>Random Forest outperforms due to ensemble learning and better feature handling</li>
 </ul>
-<p>To run this project clone the repository and run the app.py file using streamlit run app.py</p>
 
 <h2>Highlights</h2>
 <ul>
@@ -36,3 +35,4 @@
   <li>RF provides better consistency and lower RMSE</li>
   <li>Supports early identification of high-risk pregnancies</li>
 </ul>
+<p>To run this project clone the repository and run the app.py file using streamlit run app.py</p>
